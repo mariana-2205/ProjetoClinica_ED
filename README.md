@@ -1,10 +1,10 @@
 O sistema gerencia quatro coleções independentes em linguagem C:
 
 1 - Lista encadeada simples: cadastro permanente de pacientes
-    1.1 Inserir os pacientes na lista;
-    1.2 Buscar por ID;
-    1.3 Remover da lista;
-    1.4 Listar os pacientes.
+1.1 Inserir os pacientes na lista;
+1.2 Buscar por ID;
+1.3 Remover da lista;
+1.4 Listar os pacientes.
 
 2 - Lista circular: escala rotativa dos médicos de plantão 
     2.1 Inserir os médicos na lista;
