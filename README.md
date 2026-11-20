@@ -11,6 +11,7 @@ O sistema gerencia quatro coleções independentes em linguagem C:
 1.4 - Listar os pacientes.
 
 
+
 2 - Lista circular: escala rotativa dos médicos de plantão 
 
 2.1 - Inserir os médicos na lista;
@@ -20,6 +21,7 @@ O sistema gerencia quatro coleções independentes em linguagem C:
 2.3 - Remover o atual;
 
 2.4 - Listar a partir do plantonista da vez.
+
 
 
 3 - Fila (FIFO): sala de espera. Quem chega primeiro é atendido primeiro.
